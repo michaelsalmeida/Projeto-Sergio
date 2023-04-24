@@ -1,10 +1,10 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = '';
+$host = "appbcdmichael-server.mysql.database.azure.com";
+$user = "lefwpzreju";
+$pass = 'UQ12RWYLU7TCS0Z7$';
 // $user = "teste";
 // $pass = 'P4$sword';
-$dbname = "estacionamento";
+$dbname = "appbcdmichael-database";
 
 // Criar a conexao com o Banco de Dados
 try {
